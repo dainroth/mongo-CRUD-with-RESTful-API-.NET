@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace AutoCoolApi.Controllers;
+namespace FinalApi.Controllers;
 
 [ApiController]
 [Route("image")]
